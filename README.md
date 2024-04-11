@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/andarson_brel" target="blank"><img src="https://img.shields.io/twitter/follow/andarson_brel?logo=twitter&style=for-the-badge" alt="andarson_brel" /></a> </p>
 
-- 🔭 I’m currently working on [A Fake chat generator app](https://fakechatgenerator.netlify.app/)
+- 🔭 I’m currently working on [Job Scrapper](https://fakechatgenerator.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript and react**
+- 🌱 I’m currently learning **NodeJs and NextJs**
 
 - 👯 I’m looking to collaborate on **API based project**
 
